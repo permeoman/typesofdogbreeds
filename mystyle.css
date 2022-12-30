@@ -1,9 +1,17 @@
 body {
     text-align: center;
+    background-color: rgb(236, 232, 221);
+    border-style: solid;
+    border-width:thick;
+    border-color: rgb(173, 142, 112);
          }
 
 h1 {
     text-align: center;
+     }
+
+h3 {
+     text-align: center;
      }
 
 
